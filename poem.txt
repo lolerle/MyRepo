@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the ponies
 Purple
 Pink
 Orange
@@ -6,6 +6,7 @@ Red
 Blue
 Green
 Unicorn
+Pony
 Yellow
 This is The Rainbow
 
