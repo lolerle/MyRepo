@@ -5,6 +5,7 @@ Orange
 Red
 Blue
 Green
+Unicorn
 Yellow
 This is The Rainbow
 
